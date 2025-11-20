@@ -1,6 +1,4 @@
-# Zombie Apocalypse Scenario
-
-![Banner](Zombie Apocalypse Scenario.png)
+![Banner](ZombieApocalypseScenario.png)
 
 ## Project Overview:
 
