@@ -9,7 +9,9 @@ While going throught this project I developed my technical and communication ski
 
 ## Files and Program Used in This Project
 **Python**
+
 `/report.ipynb` + Main analysis notebook  
+
 `/MOCK_DATA.csv` + Dataset provided for the scenario
 
 ## Methods & Workflow:
