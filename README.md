@@ -35,6 +35,7 @@ This helped to visualize which states had the most zombie infections.
 ![Infection by State](ByStateBarChart.jpg)
 
 **5. Organized the Data to Show Infection by Gender Using a Pie Chart**
+
 This helped to show how infections were distributed across genders.
 
 ![Infection by Gender](ByGenderPieChart.jpg)
